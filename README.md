@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Elastic stack (ELK) on Docker
 
 [![Elastic Stack version](https://img.shields.io/badge/Elastic%20Stack-7.14.0-00bfb3?style=flat&logo=elastic-stack)](https://www.elastic.co/blog/category/releases)
@@ -457,4 +456,3 @@ instead of `elasticsearch`.*
 [swarm-mode]: https://docs.docker.com/engine/swarm/
 =======
 # sev1-elk
->>>>>>> 2f25c58b6f8d05d4cbeaad3a0b457f82f93e0d8d
